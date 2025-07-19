@@ -24,8 +24,8 @@ I've included 5 visual screenshots of the data visualizations I created.
 
 - `EDA_Iris_Colab.ipynb` – The full notebook
 - `iris.csv` – The dataset used
-- `screenshots/` – Folder containing plot screenshots (`SS1` to `SS5`)
-- `Iris_EDA_Report.pdf` – Downloadable PDF version of the notebook
+- (`SS1` to `SS5`) containing plot screenshots 
+  
 
 ## 🙋‍♂️ About
 
